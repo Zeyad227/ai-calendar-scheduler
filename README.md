@@ -97,10 +97,3 @@ Possible improvements include:
 
 ---
 
-## Demo
-
-Add a short demo GIF or screenshot showing the program running.
-
-Example:
-
-docs/demo.gif
